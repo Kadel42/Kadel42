@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kadel42
-- 👀 I’m interested in C# WPF
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Javascript, React, C#
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
